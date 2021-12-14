@@ -1,1 +1,1 @@
-https://github.com/Giwoong-Han/Other-Paper-Review.git
+https://ai-stoster.tistory.com/
